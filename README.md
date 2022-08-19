@@ -1,6 +1,6 @@
 # catishRecursion
 
-A program written in C++ to check for occurences of the word "cat" found 
+Program written in C++ to check for occurences of the word "cat" found 
 within a string in any order or orientation using recursion.
 
 I created this program as a project for a college class. 
